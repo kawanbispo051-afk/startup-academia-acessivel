@@ -1,12 +1,12 @@
-# 📱 Academia Acessiva – Aplicativo Inclusivo para PCDs
+# Academia Acessiva – Aplicativo Inclusivo para PCDs
 
 Projeto para desenvolvimento de um app acessível para pessoas com deficiência e iniciantes na prática de exercícios físicos.
 
 ---
 
-# 🧩 Product Backlog Prioritário
+# Product Backlog Prioritário
 Arquivo completo:
-👉 `/docs/product-backlog.md`
+ `/docs/product-backlog.md`
 
 ---
 
