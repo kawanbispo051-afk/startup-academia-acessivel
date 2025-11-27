@@ -1,0 +1,14 @@
+docs/
+ ├── product-backlog.md
+ └── requisitos.md
+
+README.md
+
+src/
+ ├── assets/.gitkeep
+ ├── components/.gitkeep
+ ├── screens/.gitkeep
+ ├── services/.gitkeep
+ └── utils/.gitkeep
+
+tests/.gitkeep
