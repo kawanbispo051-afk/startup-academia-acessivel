@@ -1,45 +1,69 @@
-# startup-academia-acessiva
-Bem-vindo ao repositório do projeto Academia Acessiva, um aplicativo desenvolvido para fornecer treinos adaptados, recursos de acessibilidade e experiências inclusivas para pessoas com deficiência (PCD) e iniciantes no mundo fitness.
-Definition of Done (DoD)
+# 📱 Academia Acessiva – Aplicativo Inclusivo para PCDs
 
-Um item só é considerado PRONTO quando atende todos os critérios abaixo:
+Projeto para desenvolvimento de um app acessível para pessoas com deficiência e iniciantes na prática de exercícios físicos.
 
-1. Código
+---
 
--Funciona sem erros.
+# 🧩 Product Backlog Prioritário
+Arquivo completo:
+👉 `/docs/product-backlog.md`
 
--Passa nos testes manuais e automáticos previstos.
+---
 
--Não possui warnings relevantes.
+# ✔ Definition of Done (DoD)
 
--Está versionado no GitHub com commit claro.
+Um item está PRONTO quando:
 
-2. Qualidade
+### 1. Código
+- Sem erros ou warnings relevantes.  
+- Passou nos testes previstos.  
+- Commit claro no GitHub.
 
--Segue padrões definidos pela equipe.
+### 2. Qualidade
+- Code review realizado.  
+- Padrões da equipe seguidos.
 
--Código revisado por pelo menos um colega (code review).
+### 3. Funcionalidade
+- Atende aos critérios de aceitação.  
+- Acessibilidade atendida (WCAG).  
+- Responsivo e funcional.
 
-3. Funcionalidade
+### 4. Documentação
+- README atualizado.  
+- Comentários essenciais no código.
 
--Cumpre todos os critérios de aceitação da história.
+### 5. Entrega
+- Build funcionando.  
+- Arquivos organizados.  
+- Nenhuma pendência técnica.
 
--É totalmente utilizável no app.
+---
 
--Segue as recomendações básicas de acessibilidade (WCAG).
+# 📂 Estrutura de Pastas
 
-4. Documentação
+```
+startup-academia-acessiva/
+│
+├── docs/
+│   ├── product-backlog.md
+│   └── requisitos.md
+│
+├── src/
+│   ├── assets/
+│   ├── components/
+│   ├── screens/
+│   ├── services/
+│   └── utils/
+│
+├── tests/
+│   └── .gitkeep
+│
+└── README.md
+```
 
--README atualizado quando necessário.
+---
 
--Comentários essenciais adicionados no código.
+# 👤 Desenvolvido por  
+Kawan, Felipe e Nicolás – Engenharia de Software III 
 
--Prints, exemplos e instruções incluídas quando relevante.
 
-5. Entrega
-
--Build funcionando.
-
--Arquivos organizados nas pastas corretas.
-
--Sem pendências técnicas ou bugs conhecidos.
