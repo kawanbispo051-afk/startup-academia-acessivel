@@ -1,4 +1,4 @@
-# Academia Acessiva – Aplicativo Inclusivo para PCDs
+# FitFacil – Aplicativo Inclusivo para PCDs
 
 Projeto para desenvolvimento de um app acessível para pessoas com deficiência e iniciantes na prática de exercícios físicos.
 
